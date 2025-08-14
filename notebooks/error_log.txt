@@ -1,0 +1,46 @@
+2025-08-14 00:24:45,039 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A725/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: Expecting ',' delimiter: line 1 column 755492 (char 755491)
+2025-08-14 00:24:45,039 - ERROR - No data returned for A725 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 00:26:41,703 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A741/fenomenos/I616 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 00:26:41,705 - ERROR - No data returned for A741 - I616 - PRESSAO ATMOSFERICA MIN. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 00:30:29,337 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7117/fenomenos/I175 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 00:30:29,338 - ERROR - No data returned for D7117 - I175 - PRECIPITACAO TOTAL, HORARIO. Attempt 1 of 3.
+2025-08-14 00:41:15,483 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A748/fenomenos/I616 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {
+  "message": "An unexpected error occurred"
+}
+
+2025-08-14 00:41:15,485 - ERROR - No data returned for A748 - I616 - PRESSAO ATMOSFERICA MIN. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 00:42:03,201 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A748/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 00:42:03,203 - ERROR - No data returned for A748 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 00:44:11,510 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A748/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 00:44:11,512 - ERROR - No data returned for A748 - I133 - RADIACAO GLOBAL. Attempt 2 of 3.
+2025-08-14 00:47:14,193 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A748/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {
+  "message": "An unexpected error occurred"
+}
+
+2025-08-14 00:47:14,194 - ERROR - No data returned for A748 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 01:04:14,718 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A764/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 01:04:14,719 - ERROR - No data returned for A764 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 03:06:17,613 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7079/fenomenos/I105 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 03:06:17,614 - ERROR - No data returned for D7079 - I105 - UMIDADE RELATIVA DO AR, HORARIA. Attempt 1 of 3.
+2025-08-14 03:07:14,649 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7126/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 03:07:14,650 - ERROR - No data returned for D7126 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 03:17:14,810 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7205/fenomenos/I608 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 03:17:14,812 - ERROR - No data returned for D7205 - I608 - VENTO, RAJADA MAXIMA. Attempt 1 of 3.
+2025-08-14 05:05:13,767 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7198/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 05:05:13,768 - ERROR - No data returned for D7198 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 05:21:15,941 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7200/fenomenos/I618 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 05:21:15,942 - ERROR - No data returned for D7200 - I618 - UMIDADE REL. MIN. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 05:25:16,795 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7147/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 05:25:16,796 - ERROR - No data returned for D7147 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 06:04:15,531 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83823/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 06:04:15,531 - ERROR - No data returned for 83823 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 06:05:15,535 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83630/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 06:05:15,537 - ERROR - No data returned for 83630 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 06:20:17,069 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83651/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 06:20:17,070 - ERROR - No data returned for 83651 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 06:24:14,024 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D6594/fenomenos/I175 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 06:24:14,025 - ERROR - No data returned for D6594 - I175 - PRECIPITACAO TOTAL, HORARIO. Attempt 1 of 3.
+2025-08-14 06:25:19,765 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D6594/fenomenos/I608 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 06:25:19,767 - ERROR - No data returned for D6594 - I608 - VENTO, RAJADA MAXIMA. Attempt 1 of 3.
+2025-08-14 09:23:59,343 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A519/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 09:23:59,344 - ERROR - No data returned for A519 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.

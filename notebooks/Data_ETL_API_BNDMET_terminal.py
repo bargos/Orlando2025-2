@@ -5,7 +5,11 @@ import logging
 import numpy as np
 import pandas as pd
 import geopandas as gpd
+import dotenv
 
+dotenv.load_dotenv()
+
+X_API_KEY = os.environ['X_API_KEY']
 
 # Define the maximum number of retries
 MAX_RETRIES = 3
@@ -17,7 +21,7 @@ BASE_URL = 'https://api-bndmet.decea.mil.br/v1/estacoes'
 # Cabeçalhos necessários para a requisição
 headers = {
     'accept': 'application/json',
-    'x-api-key': '6cqZrWP34P5hE5HVKQvhVRwqagdwIz7i'
+    'x-api-key': X_API_KEY
 }
 
 # Set up the logging configuration to write errors to a file

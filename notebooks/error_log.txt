@@ -44,3 +44,80 @@
 2025-08-14 06:25:19,767 - ERROR - No data returned for D6594 - I608 - VENTO, RAJADA MAXIMA. Attempt 1 of 3.
 2025-08-14 09:23:59,343 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A519/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
 2025-08-14 09:23:59,344 - ERROR - No data returned for A519 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 10:42:28,326 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8247/fenomenos/I105 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 10:42:28,327 - ERROR - No data returned for D8247 - I105 - UMIDADE RELATIVA DO AR, HORARIA. Attempt 1 of 3.
+2025-08-14 11:10:22,227 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A513/fenomenos/I105 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 11:10:22,228 - ERROR - No data returned for A513 - I105 - UMIDADE RELATIVA DO AR, HORARIA. Attempt 1 of 3.
+2025-08-14 12:41:16,533 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D6802/fenomenos/I175 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 12:41:16,534 - ERROR - No data returned for D6802 - I175 - PRECIPITACAO TOTAL, HORARIO. Attempt 1 of 3.
+2025-08-14 13:12:14,144 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83118/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 13:12:14,145 - ERROR - No data returned for 83118 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 13:16:14,283 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83521/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 13:16:14,285 - ERROR - No data returned for 83521 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 13:17:15,726 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83112/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 13:17:15,727 - ERROR - No data returned for 83112 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 13:19:17,790 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83637/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 13:19:17,791 - ERROR - No data returned for 83637 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 13:21:13,403 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83631/fenomenos/I617 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 13:21:13,404 - ERROR - No data returned for 83631 - I617 - UMIDADE REL. MAX. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 14:11:13,970 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8260/fenomenos/I105 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 14:11:13,971 - ERROR - No data returned for D8260 - I105 - UMIDADE RELATIVA DO AR, HORARIA. Attempt 1 of 3.
+2025-08-14 14:20:48,007 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D6995/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 14:20:48,008 - ERROR - No data returned for D6995 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 15:32:22,029 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83748/fenomenos/I617 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:32:22,045 - ERROR - No data returned for 83748 - I617 - UMIDADE REL. MAX. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 15:32:42,203 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83748/fenomenos/I617 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:32:42,203 - ERROR - No data returned for 83748 - I617 - UMIDADE REL. MAX. NA HORA ANT. (AUT). Attempt 2 of 3.
+2025-08-14 15:33:07,905 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83748/fenomenos/I608 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:33:07,906 - ERROR - No data returned for 83748 - I608 - VENTO, RAJADA MAXIMA. Attempt 1 of 3.
+2025-08-14 15:33:28,078 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83748/fenomenos/I608 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:33:28,079 - ERROR - No data returned for 83748 - I608 - VENTO, RAJADA MAXIMA. Attempt 2 of 3.
+2025-08-14 15:33:48,661 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83748/fenomenos/I111 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:33:48,661 - ERROR - No data returned for 83748 - I111 - VENTO, VELOCIDADE HORARIA. Attempt 1 of 3.
+2025-08-14 15:34:15,752 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83007/fenomenos/I101 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 503: Service Unavailable
+2025-08-14 15:34:15,753 - ERROR - No data returned for 83007 - I101 - TEMPERATURA DO AR - BULBO SECO, HORARIA. Attempt 1 of 3.
+2025-08-14 15:34:31,055 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83007/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:34:31,056 - ERROR - No data returned for 83007 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 15:34:46,415 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83007/fenomenos/I105 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:34:46,416 - ERROR - No data returned for 83007 - I105 - UMIDADE RELATIVA DO AR, HORARIA. Attempt 1 of 3.
+2025-08-14 15:35:09,251 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83788/fenomenos/I615 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:35:09,251 - ERROR - No data returned for 83788 - I615 - PRESSAO ATMOSFERICA MAX.NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 15:35:25,228 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83788/fenomenos/I611 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:35:25,229 - ERROR - No data returned for 83788 - I611 - TEMPERATURA MAXIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 15:35:39,152 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/83788/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:35:39,152 - ERROR - No data returned for 83788 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 16:01:14,342 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7471/fenomenos/I608 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 16:01:14,343 - ERROR - No data returned for D7471 - I608 - VENTO, RAJADA MAXIMA. Attempt 1 of 3.
+2025-08-14 16:16:17,411 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8166/fenomenos/I615 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 16:16:17,412 - ERROR - No data returned for D8166 - I615 - PRESSAO ATMOSFERICA MAX.NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 16:42:46,120 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7262/fenomenos/I611 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 16:42:46,121 - ERROR - No data returned for D7262 - I611 - TEMPERATURA MAXIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 16:49:57,227 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A824/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 16:49:57,228 - ERROR - No data returned for A824 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 17:36:44,889 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8268/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 504: Gateway Timeout
+2025-08-14 17:36:44,890 - ERROR - No data returned for D8268 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 18:00:01,759 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7243/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Error: HTTPSConnectionPool(host='api-bndmet.decea.mil.br', port=443): Max retries exceeded with url: /v1/estacoes/D7243/fenomenos/I106?dataInicio=2008-01-01&dataFinal=2024-12-31 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e9d3591e590>: Failed to resolve 'api-bndmet.decea.mil.br' ([Errno -3] Temporary failure in name resolution)"))
+2025-08-14 18:00:01,759 - ERROR - No data returned for D7243 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 18:13:13,708 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7271/fenomenos/I616 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 18:13:13,709 - ERROR - No data returned for D7271 - I616 - PRESSAO ATMOSFERICA MIN. NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 18:21:17,033 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7342/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 18:21:17,034 - ERROR - No data returned for D7342 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 18:25:51,807 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D7310/fenomenos/I133 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 429: {"message":"API rate limit exceeded"}
+2025-08-14 18:25:51,808 - ERROR - No data returned for D7310 - I133 - RADIACAO GLOBAL. Attempt 1 of 3.
+2025-08-14 18:40:11,123 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A034/fenomenos/I611 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {
+  "message": "An unexpected error occurred"
+}
+
+2025-08-14 18:40:11,125 - ERROR - No data returned for A034 - I611 - TEMPERATURA MAXIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 19:01:15,669 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8031/fenomenos/I612 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:01:15,670 - ERROR - No data returned for D8031 - I612 - TEMPERATURA MINIMA NA HORA ANT. (AUT). Attempt 1 of 3.
+2025-08-14 19:02:16,392 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8057/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:02:16,393 - ERROR - No data returned for D8057 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 19:07:13,866 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8018/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:07:13,867 - ERROR - No data returned for D8018 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 19:10:15,934 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/D8024/fenomenos/I106 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:10:15,936 - ERROR - No data returned for D8024 - I106 - PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA. Attempt 1 of 3.
+2025-08-14 19:15:05,825 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A011/fenomenos/I101 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:15:05,826 - ERROR - No data returned for A011 - I101 - TEMPERATURA DO AR - BULBO SECO, HORARIA. Attempt 1 of 3.
+2025-08-14 19:38:34,338 - ERROR - Request failed for URL: https://api-bndmet.decea.mil.br/v1/estacoes/A750/fenomenos/I618 with params: {'dataInicio': '2008-01-01', 'dataFinal': '2024-12-31'}. Erro 500: {"statusCode":500,"error":"Internal Server Error","message":"An internal server error occurred"}
+2025-08-14 19:38:34,339 - ERROR - No data returned for A750 - I618 - UMIDADE REL. MIN. NA HORA ANT. (AUT). Attempt 1 of 3.
